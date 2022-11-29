@@ -14,7 +14,7 @@ function Footer(props) {
             <h2>About Us</h2>
         </section>
         <footer>
-            <Link to='https://github.com/GarauOR/NFT-Gallery' className='logo'><img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Symbol-700x394.png" alt="github logo" id="ghub"></img></Link>
+            <Link to='https://github.com/GarauOR/NFT-React-Gallery' className='logo'><img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Symbol-700x394.png" alt="github logo" id="ghub"></img></Link>
             <p>© Luca Garau 2022</p>
         </footer>
     </div>
